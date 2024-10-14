@@ -1,0 +1,15 @@
+Pronóstico,Temperatura,Humedad,Viento,Juega_Tennis
+soleado,calor,alta,no,No
+soleado,calor,alta,si,No
+nublado,calor,alta,no,Si
+lluvioso,moderado,alta,no,Si
+lluvioso,frío,normal,no,Si
+lluvioso,frío,normal,si,No
+nublado,frío,normal,si,Si
+soleado,moderado,alta,no,No
+soleado,frío,normal,no,Si
+lluvioso,moderado,normal,no,Si
+soleado,moderado,normal,si,Si
+nublado,moderado,alta,si,Si
+nublado,calor,normal,no,Si
+lluvioso,moderado,alta,si,No
